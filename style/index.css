@@ -71,3 +71,8 @@ a {
     text-decoration: none;
     outline: none;
 }
+
+.profileImage {
+    width: 22px;
+    height: 22px;
+}
